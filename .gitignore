@@ -1,0 +1,5 @@
+bin/
+obj/
+*.user
+smoke-out.json
+req.txt
