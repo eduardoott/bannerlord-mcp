@@ -65,3 +65,10 @@ Ou, por projeto, um `.mcp.json` na raiz do repo do mod:
 
 Hoje cobre **busca + decompile** (o "nível B"). Futuro, se valer: `bl_find_callers` (quem chama um
 método — varredura de IL, pra mirar Harmony patches) e `bl_find_subclasses`.
+
+## Licença
+
+[MIT](LICENSE) — para o código **deste** projeto.
+
+Não inclui nem redistribui nenhuma assembly da TaleWorlds: o servidor apenas lê a instalação
+local do Mount & Blade II: Bannerlord de quem já é dono do jogo. Bannerlord © TaleWorlds Entertainment.
